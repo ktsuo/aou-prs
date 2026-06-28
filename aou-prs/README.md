@@ -1,4 +1,4 @@
-This directory contains scripts used to create plots for main and supplementary figures.
+This repo contains scripts used to create the plots for main and supplementary figures.
 
 ## Structure
 
